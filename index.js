@@ -1,3 +1,3 @@
 let currentUser = "Katherine Murr"
 let welcomeMessage = "Welcome to Klossybook, " + currentUser + "!"
-let 
+let excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK"
